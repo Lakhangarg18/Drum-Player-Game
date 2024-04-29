@@ -17,6 +17,6 @@ CSS3
 JavaScript
 
 Feedback:
-We hope you enjoy playing the Drum Beat Game! If you have any feedback or suggestions for improvement, please feel free to contact us at feedback@example.com. Your input is valuable to us as we continue to enhance the game.
+We hope you enjoy playing the Drum Beat Game! If you have any feedback or suggestions for improvement, please feel free to contact us at lakhangarg380@gmail.com Your input is valuable to us as we continue to enhance the game.
 
 Thank you for playing!
